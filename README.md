@@ -1,6 +1,6 @@
-# Construa-um-Projeto-L-gico-de-Banco-de-Dados-do-Zero
+# Construa um Projeto Lógico de Banco de Dados do Zero
 Neste desafio, você irá utilizar seu esquema conceitual, criado no desafio do módulo de modelagem de BD com modelo ER, para criar o esquema lógico para o contexto de uma oficina. Você definirá todas as etapas. Desde o esquema até a implementação do banco de dados.
-
+![Diagrama EER](modelo_conceitual/diagrama_eer.png)
 # RPG Mestre Manager - Sistema de Gestão de RPG Profissional
 
 ## Descrição
